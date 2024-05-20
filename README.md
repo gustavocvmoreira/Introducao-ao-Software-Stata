@@ -21,3 +21,6 @@ Parte 3 (manipulação de variáveis):
 Parte 4 (elaboração de figuras):
 
 [![Introdução ao software Stata (Parte 4)](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqIkgagUfwpU%26ab_channel%3DGustavo)](https://www.youtube.com/watch?v=qIkgagUfwpU&ab_channel=Gustavo)
+
+Parte 5 (importando dados da PNAD) - [Acesso aos microdados](https://www.ibge.gov.br/estatisticas/sociais/trabalho/9173-pesquisa-nacional-por-amostra-de-domicilios-continua-trimestral.html?=&t=microdados):
+
