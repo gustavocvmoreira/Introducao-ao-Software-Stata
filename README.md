@@ -8,5 +8,7 @@ Parte 1:
 
 [![Introdução ao software Stata (Parte 1)](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGCFZStzzQDs%26ab_channel%3DGustavo)](https://www.youtube.com/watch?v=GCFZStzzQDs&ab_channel=Gustavo)
 
+Parte 2:
 
+[![Introdução ao software Stata (Parte 2)](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKWcIyeIFnCc&ab_channel=Gustavo)](https://www.youtube.com/watch?v=KWcIyeIFnCc&ab_channel=Gustavo)
 
