@@ -6,21 +6,21 @@ O material foi desenvolvido e elaborado por mim, Prof. Gustavo Moreira, do Depar
 
 Para dúvidas ou comentários, escreva para: gustavocmoreira@usp.br
 
-Parte 1 (aspectos gerais do software):
+### Parte 1 - aspectos gerais do software:
 
 [![Introdução ao software Stata (Parte 1)](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGCFZStzzQDs%26ab_channel%3DGustavo)](https://www.youtube.com/watch?v=GCFZStzzQDs&ab_channel=Gustavo)
 
-Parte 2 (importando bases de dados):
+### Parte 2 - importando bases de dados:
 
 [![Introdução ao software Stata (Parte 2)](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKWcIyeIFnCc&ab_channel=Gustavo)](https://www.youtube.com/watch?v=KWcIyeIFnCc&ab_channel=Gustavo)
 
-Parte 3 (manipulação de variáveis):
+### Parte 3 - manipulação de variáveis:
 
 [![Introdução ao software Stata (Parte 3)](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DF-Lb-7z9gVA%26ab_channel%3DGustavo)](https://www.youtube.com/watch?v=F-Lb-7z9gVA&ab_channel=Gustavo)
 
-Parte 4 (elaboração de figuras):
+### Parte 4 - elaboração de figuras:
 
 [![Introdução ao software Stata (Parte 4)](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqIkgagUfwpU%26ab_channel%3DGustavo)](https://www.youtube.com/watch?v=qIkgagUfwpU&ab_channel=Gustavo)
 
-Parte 5 (importando dados da PNAD) - [Acesso aos microdados](https://www.ibge.gov.br/estatisticas/sociais/trabalho/9173-pesquisa-nacional-por-amostra-de-domicilios-continua-trimestral.html?=&t=microdados):
+### Parte 5 - importando dados da PNAD [(Acesso aos microdados)](https://www.ibge.gov.br/estatisticas/sociais/trabalho/9173-pesquisa-nacional-por-amostra-de-domicilios-continua-trimestral.html?=&t=microdados):
 
