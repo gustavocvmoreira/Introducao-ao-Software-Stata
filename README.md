@@ -1,4 +1,4 @@
-# Introducao ao Software Stata
+# Introdução ao Software Stata
 
 Olá! Este curso é destinado ao entendimento do software Stata para a análise e visualização de dados, com um foco especial nas Ciências Sociais Aplicadas.
 
