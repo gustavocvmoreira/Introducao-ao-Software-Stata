@@ -5,8 +5,8 @@ Olá! Este curso é destinado ao entendimento do software Stata para a análise 
 O material foi desenvolvido e elaborado por mim, Prof. Gustavo Moreira, do Departamento de Economia, Administração e Sociologia da Esalq/USP. Está disponível para todos que têm interesse em aprender mais sobre o software. Os arquivos necessários estão no repositório desta página e podem ser baixados para treino e teste. Além disso, o material é complementado com vídeos explicativos, cuja visualização em ordem é recomendada.
 
 Para dúvidas ou comentários, escreva para: gustavocmoreira@usp.br
------
 
+-----
 
 ### Parte 1 - aspectos gerais do software:
 
@@ -26,3 +26,6 @@ Para dúvidas ou comentários, escreva para: gustavocmoreira@usp.br
 
 ### Parte 5 - importando dados da PNAD [(Acesso aos microdados)](https://www.ibge.gov.br/estatisticas/sociais/trabalho/9173-pesquisa-nacional-por-amostra-de-domicilios-continua-trimestral.html?=&t=microdados):
 
+[![Introdução ao software Stata (Parte 5)](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DObqBN1ZjRXM%26ab_channel%3DGustavo)](https://www.youtube.com/watch?v=ObqBN1ZjRXM&ab_channel=Gustavo)
+
+-----
