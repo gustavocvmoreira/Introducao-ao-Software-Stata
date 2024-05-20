@@ -1,0 +1,195 @@
+AFG        Afghanistan                          Low             180       .478  
+AGO        Angola                               Medium          148       .586  
+ALB        Albania                              High             67       .796  
+AND        Andorra                              Very High        40       .858  
+ARE        United Arab Emirates                 Very High        26       .911  
+ARG        Argentina                            Very High        47       .842  
+ARM        Armenia                              High             85       .759  
+ATG        Antigua and Barbuda                  High             71       .788  
+AUS        Australia                            Very High         5       .951  
+AUT        Austria                              Very High        25       .916  
+AZE        Azerbaijan                           High             91       .745  
+BDI        Burundi                              Low             187       .426  
+BEL        Belgium                              Very High        13       .937  
+BEN        Benin                                Low             166       .525  
+BFA        Burkina Faso                         Low             184       .449  
+BGD        Bangladesh                           Medium          129       .661  
+BGR        Bulgaria                             High             68       .795  
+BHR        Bahrain                              Very High        35       .875  
+BHS        Bahamas                              Very High        55       .812  
+BIH        Bosnia and Herzegovina               High             74        .78  
+BLR        Belarus                              Very High        60       .808  
+BLZ        Belize                               Medium          123       .683  
+BOL        Bolivia (Plurinational State of)     Medium          118       .692  
+BRA        Brazil                               High             87       .754  
+BRB        Barbados                             High             70        .79  
+BRN        Brunei Darussalam                    Very High        51       .829  
+BTN        Bhutan                               Medium          127       .666  
+BWA        Botswana                             Medium          117       .693  
+CAF        Central African Republic             Low             188       .404  
+CAN        Canada                               Very High        15       .936  
+CHE        Switzerland                          Very High         1       .962  
+CHL        Chile                                Very High        42       .855  
+CHN        China                                High             79       .768  
+CIV        CÃ´te d'Ivoire                       Medium          159        .55  
+CMR        Cameroon                             Medium          151       .576  
+COD        Congo (Democratic Republic of the)   Low             179       .479  
+COG        Congo                                Medium          153       .571  
+COL        Colombia                             High             88       .752  
+COM        Comoros                              Medium          156       .558  
+CPV        Cabo Verde                           Medium          128       .662  
+CRI        Costa Rica                           Very High        58       .809  
+CUB        Cuba                                 High             83       .764  
+CYP        Cyprus                               Very High        29       .896  
+CZE        Czechia                              Very High        32       .889  
+DEU        Germany                              Very High         9       .942  
+DJI        Djibouti                             Low             171       .509  
+DMA        Dominica                             High            102        .72  
+DNK        Denmark                              Very High         6       .948  
+DOM        Dominican Republic                   High             80       .767  
+DZA        Algeria                              High             91       .745  
+ECU        Ecuador                              High             95        .74  
+EGY        Egypt                                High             97       .731  
+ERI        Eritrea                              Low             176       .492  
+ESP        Spain                                Very High        27       .905  
+EST        Estonia                              Very High        31        .89  
+ETH        Ethiopia                             Low             175       .498  
+FIN        Finland                              Very High        11        .94  
+FJI        Fiji                                 High             99        .73  
+FRA        France                               Very High        28       .903  
+FSM        Micronesia (Federated States of)     Medium          134       .628  
+GAB        Gabon                                High            112       .706  
+GBR        United Kingdom                       Very High        18       .929  
+GEO        Georgia                              Very High        63       .802  
+GHA        Ghana                                Medium          133       .632  
+GIN        Guinea                               Low             182       .465  
+GMB        Gambia                               Low             174         .5  
+GNB        Guinea-Bissau                        Low             177       .483  
+GNQ        Equatorial Guinea                    Medium          145       .596  
+GRC        Greece                               Very High        33       .887  
+GRD        Grenada                              High             68       .795  
+GTM        Guatemala                            Medium          135       .627  
+GUY        Guyana                               High            108       .714  
+HKG        Hong Kong, China (SAR)               Very High         4       .952  
+HND        Honduras                             Medium          137       .621  
+HRV        Croatia                              Very High        40       .858  
+HTI        Haiti                                Low             163       .535  
+HUN        Hungary                              Very High        46       .846  
+IDN        Indonesia                            High            114       .705  
+IND        India                                Medium          132       .633  
+IRL        Ireland                              Very High         8       .945  
+IRN        Iran (Islamic Republic of)           High             76       .774  
+IRQ        Iraq                                 Medium          121       .686  
+ISL        Iceland                              Very High         3       .959  
+ISR        Israel                               Very High        22       .919  
+ITA        Italy                                Very High        30       .895  
+JAM        Jamaica                              High            110       .709  
+JOR        Jordan                               High            102        .72  
+JPN        Japan                                Very High        19       .925  
+KAZ        Kazakhstan                           Very High        56       .811  
+KEN        Kenya                                Medium          152       .575  
+KGZ        Kyrgyzstan                           Medium          118       .692  
+KHM        Cambodia                             Medium          146       .593  
+KIR        Kiribati                             Medium          136       .624  
+KNA        Saint Kitts and Nevis                High             75       .777  
+KOR        Korea (Republic of)                  Very High        19       .925  
+KWT        Kuwait                               Very High        50       .831  
+LAO        Lao People's Democratic Republic     Medium          140       .607  
+LBN        Lebanon                              High            112       .706  
+LBR        Liberia                              Low             178       .481  
+LBY        Libya                                High            104       .718  
+LCA        Saint Lucia                          High            106       .715  
+LIE        Liechtenstein                        Very High        16       .935  
+LKA        Sri Lanka                            High             73       .782  
+LSO        Lesotho                              Low             168       .514  
+LTU        Lithuania                            Very High        35       .875  
+LUX        Luxembourg                           Very High        17        .93  
+LVA        Latvia                               Very High        39       .863  
+MAR        Morocco                              Medium          123       .683  
+MCO        Monaco                                                 .          .  
+MDA        Moldova (Republic of)                High             80       .767  
+MDG        Madagascar                           Low             173       .501  
+MDV        Maldives                             High             90       .747  
+MEX        Mexico                               High             86       .758  
+MHL        Marshall Islands                     Medium          131       .639  
+MKD        North Macedonia                      High             78        .77  
+MLI        Mali                                 Low             186       .428  
+MLT        Malta                                Very High        23       .918  
+MMR        Myanmar                              Medium          149       .585  
+MNE        Montenegro                           Very High        49       .832  
+MNG        Mongolia                             High             96       .739  
+MOZ        Mozambique                           Low             185       .446  
+MRT        Mauritania                           Medium          158       .556  
+MUS        Mauritius                            Very High        63       .802  
+MWI        Malawi                               Low             169       .512  
+MYS        Malaysia                             Very High        62       .803  
+NAM        Namibia                              Medium          139       .615  
+NER        Niger                                Low             189         .4  
+NGA        Nigeria                              Low             163       .535  
+NIC        Nicaragua                            Medium          126       .667  
+NLD        Netherlands                          Very High        10       .941  
+NOR        Norway                               Very High         2       .961  
+NPL        Nepal                                Medium          143       .602  
+NRU        Nauru                                                  .          .  
+NZL        New Zealand                          Very High        13       .937  
+OMN        Oman                                 Very High        54       .816  
+PAK        Pakistan                             Low             161       .544  
+PAN        Panama                               Very High        61       .805  
+PER        Peru                                 High             84       .762  
+PHL        Philippines                          Medium          116       .699  
+PLW        Palau                                High             80       .767  
+PNG        Papua New Guinea                     Medium          156       .558  
+POL        Poland                               Very High        34       .876  
+PRK        Korea (Democratic People's Rep. of)                    .          .  
+PRT        Portugal                             Very High        38       .866  
+PRY        Paraguay                             High            105       .717  
+PSE        Palestine, State of                  High            106       .715  
+QAT        Qatar                                Very High        42       .855  
+ROU        Romania                              Very High        53       .821  
+RUS        Russian Federation                   Very High        52       .822  
+RWA        Rwanda                               Low             165       .534  
+SAU        Saudi Arabia                         Very High        35       .875  
+SDN        Sudan                                Low             172       .508  
+SEN        Senegal                              Low             170       .511  
+SGP        Singapore                            Very High        12       .939  
+SLB        Solomon Islands                      Medium          155       .564  
+SLE        Sierra Leone                         Low             181       .477  
+SLV        El Salvador                          Medium          125       .675  
+SMR        San Marino                           Very High        44       .853  
+SOM        Somalia                                                .          .  
+SRB        Serbia                               Very High        63       .802  
+SSD        South Sudan                          Low             191       .385  
+STP        Sao Tome and Principe                Medium          138       .618  
+SUR        Suriname                             High             99        .73  
+SVK        Slovakia                             Very High        45       .848  
+SVN        Slovenia                             Very High        23       .918  
+SWE        Sweden                               Very High         7       .947  
+SWZ        Eswatini (Kingdom of)                Medium          144       .597  
+SYC        Seychelles                           High             72       .785  
+SYR        Syrian Arab Republic                 Medium          150       .577  
+TCD        Chad                                 Low             190       .394  
+TGO        Togo                                 Low             162       .539  
+THA        Thailand                             Very High        66         .8  
+TJK        Tajikistan                           Medium          122       .685  
+TKM        Turkmenistan                         High             91       .745  
+TLS        Timor-Leste                          Medium          140       .607  
+TON        Tonga                                High             91       .745  
+TTO        Trinidad and Tobago                  Very High        57        .81  
+TUN        Tunisia                              High             97       .731  
+TUR        Turkey                               Very High        48       .838  
+TUV        Tuvalu                               Medium          130       .641  
+TZA        Tanzania (United Republic of)        Low             160       .549  
+UGA        Uganda                               Low             166       .525  
+UKR        Ukraine                              High             77       .773  
+URY        Uruguay                              Very High        58       .809  
+USA        United States                        Very High        21       .921  
+UZB        Uzbekistan                           High            101       .727  
+VCT        Saint Vincent and the Grenadines     High             89       .751  
+VEN        Venezuela (Bolivarian Republic of)   Medium          120       .691  
+VNM        Viet Nam                             High            115       .703  
+VUT        Vanuatu                              Medium          140       .607  
+WSM        Samoa                                High            111       .707  
+YEM        Yemen                                Low             183       .455  
+ZAF        South Africa                         High            109       .713  
+ZMB        Zambia                               Medium          154       .565  
+ZWE        Zimbabwe                             Medium          146       .593  

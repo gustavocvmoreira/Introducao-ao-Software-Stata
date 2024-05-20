@@ -1,0 +1,196 @@
+sigla,nome,idh_classe,idh_ranking,idh_2021
+AFG,Afghanistan,Low,180,0.478
+AGO,Angola,Medium,148,0.586
+ALB,Albania,High,67,0.796
+AND,Andorra,Very High,40,0.858
+ARE,United Arab Emirates,Very High,26,0.911
+ARG,Argentina,Very High,47,0.842
+ARM,Armenia,High,85,0.759
+ATG,Antigua and Barbuda,High,71,0.788
+AUS,Australia,Very High,5,0.951
+AUT,Austria,Very High,25,0.916
+AZE,Azerbaijan,High,91,0.745
+BDI,Burundi,Low,187,0.426
+BEL,Belgium,Very High,13,0.937
+BEN,Benin,Low,166,0.525
+BFA,Burkina Faso,Low,184,0.449
+BGD,Bangladesh,Medium,129,0.661
+BGR,Bulgaria,High,68,0.795
+BHR,Bahrain,Very High,35,0.875
+BHS,Bahamas,Very High,55,0.812
+BIH,Bosnia and Herzegovina,High,74,0.78
+BLR,Belarus,Very High,60,0.808
+BLZ,Belize,Medium,123,0.683
+BOL,Bolivia (Plurinational State of),Medium,118,0.692
+BRA,Brazil,High,87,0.754
+BRB,Barbados,High,70,0.79
+BRN,Brunei Darussalam,Very High,51,0.829
+BTN,Bhutan,Medium,127,0.666
+BWA,Botswana,Medium,117,0.693
+CAF,Central African Republic,Low,188,0.404
+CAN,Canada,Very High,15,0.936
+CHE,Switzerland,Very High,1,0.962
+CHL,Chile,Very High,42,0.855
+CHN,China,High,79,0.768
+CIV,Côte d'Ivoire,Medium,159,0.55
+CMR,Cameroon,Medium,151,0.576
+COD,Congo (Democratic Republic of the),Low,179,0.479
+COG,Congo,Medium,153,0.571
+COL,Colombia,High,88,0.752
+COM,Comoros,Medium,156,0.558
+CPV,Cabo Verde,Medium,128,0.662
+CRI,Costa Rica,Very High,58,0.809
+CUB,Cuba,High,83,0.764
+CYP,Cyprus,Very High,29,0.896
+CZE,Czechia,Very High,32,0.889
+DEU,Germany,Very High,9,0.942
+DJI,Djibouti,Low,171,0.509
+DMA,Dominica,High,102,0.72
+DNK,Denmark,Very High,6,0.948
+DOM,Dominican Republic,High,80,0.767
+DZA,Algeria,High,91,0.745
+ECU,Ecuador,High,95,0.74
+EGY,Egypt,High,97,0.731
+ERI,Eritrea,Low,176,0.492
+ESP,Spain,Very High,27,0.905
+EST,Estonia,Very High,31,0.89
+ETH,Ethiopia,Low,175,0.498
+FIN,Finland,Very High,11,0.94
+FJI,Fiji,High,99,0.73
+FRA,France,Very High,28,0.903
+FSM,Micronesia (Federated States of),Medium,134,0.628
+GAB,Gabon,High,112,0.706
+GBR,United Kingdom,Very High,18,0.929
+GEO,Georgia,Very High,63,0.802
+GHA,Ghana,Medium,133,0.632
+GIN,Guinea,Low,182,0.465
+GMB,Gambia,Low,174,0.5
+GNB,Guinea-Bissau,Low,177,0.483
+GNQ,Equatorial Guinea,Medium,145,0.596
+GRC,Greece,Very High,33,0.887
+GRD,Grenada,High,68,0.795
+GTM,Guatemala,Medium,135,0.627
+GUY,Guyana,High,108,0.714
+HKG,Hong Kong China,Very High,4,0.952
+HND,Honduras,Medium,137,0.621
+HRV,Croatia,Very High,40,0.858
+HTI,Haiti,Low,163,0.535
+HUN,Hungary,Very High,46,0.846
+IDN,Indonesia,High,114,0.705
+IND,India,Medium,132,0.633
+IRL,Ireland,Very High,8,0.945
+IRN,Iran (Islamic Republic of),High,76,0.774
+IRQ,Iraq,Medium,121,0.686
+ISL,Iceland,Very High,3,0.959
+ISR,Israel,Very High,22,0.919
+ITA,Italy,Very High,30,0.895
+JAM,Jamaica,High,110,0.709
+JOR,Jordan,High,102,0.72
+JPN,Japan,Very High,19,0.925
+KAZ,Kazakhstan,Very High,56,0.811
+KEN,Kenya,Medium,152,0.575
+KGZ,Kyrgyzstan,Medium,118,0.692
+KHM,Cambodia,Medium,146,0.593
+KIR,Kiribati,Medium,136,0.624
+KNA,Saint Kitts and Nevis,High,75,0.777
+KOR,Korea (Republic of),Very High,19,0.925
+KWT,Kuwait,Very High,50,0.831
+LAO,Lao People's Democratic Republic,Medium,140,0.607
+LBN,Lebanon,High,112,0.706
+LBR,Liberia,Low,178,0.481
+LBY,Libya,High,104,0.718
+LCA,Saint Lucia,High,106,0.715
+LIE,Liechtenstein,Very High,16,0.935
+LKA,Sri Lanka,High,73,0.782
+LSO,Lesotho,Low,168,0.514
+LTU,Lithuania,Very High,35,0.875
+LUX,Luxembourg,Very High,17,0.93
+LVA,Latvia,Very High,39,0.863
+MAR,Morocco,Medium,123,0.683
+MCO,Monaco,,,
+MDA,Moldova (Republic of),High,80,0.767
+MDG,Madagascar,Low,173,0.501
+MDV,Maldives,High,90,0.747
+MEX,Mexico,High,86,0.758
+MHL,Marshall Islands,Medium,131,0.639
+MKD,North Macedonia,High,78,0.77
+MLI,Mali,Low,186,0.428
+MLT,Malta,Very High,23,0.918
+MMR,Myanmar,Medium,149,0.585
+MNE,Montenegro,Very High,49,0.832
+MNG,Mongolia,High,96,0.739
+MOZ,Mozambique,Low,185,0.446
+MRT,Mauritania,Medium,158,0.556
+MUS,Mauritius,Very High,63,0.802
+MWI,Malawi,Low,169,0.512
+MYS,Malaysia,Very High,62,0.803
+NAM,Namibia,Medium,139,0.615
+NER,Niger,Low,189,0.4
+NGA,Nigeria,Low,163,0.535
+NIC,Nicaragua,Medium,126,0.667
+NLD,Netherlands,Very High,10,0.941
+NOR,Norway,Very High,2,0.961
+NPL,Nepal,Medium,143,0.602
+NRU,Nauru,,,
+NZL,New Zealand,Very High,13,0.937
+OMN,Oman,Very High,54,0.816
+PAK,Pakistan,Low,161,0.544
+PAN,Panama,Very High,61,0.805
+PER,Peru,High,84,0.762
+PHL,Philippines,Medium,116,0.699
+PLW,Palau,High,80,0.767
+PNG,Papua New Guinea,Medium,156,0.558
+POL,Poland,Very High,34,0.876
+PRK,Korea (Democratic People's Rep. of),,,
+PRT,Portugal,Very High,38,0.866
+PRY,Paraguay,High,105,0.717
+PSE,Palestine,High,106,0.715
+QAT,Qatar,Very High,42,0.855
+ROU,Romania,Very High,53,0.821
+RUS,Russian Federation,Very High,52,0.822
+RWA,Rwanda,Low,165,0.534
+SAU,Saudi Arabia,Very High,35,0.875
+SDN,Sudan,Low,172,0.508
+SEN,Senegal,Low,170,0.511
+SGP,Singapore,Very High,12,0.939
+SLB,Solomon Islands,Medium,155,0.564
+SLE,Sierra Leone,Low,181,0.477
+SLV,El Salvador,Medium,125,0.675
+SMR,San Marino,Very High,44,0.853
+SOM,Somalia,,,
+SRB,Serbia,Very High,63,0.802
+SSD,South Sudan,Low,191,0.385
+STP,Sao Tome and Principe,Medium,138,0.618
+SUR,Suriname,High,99,0.73
+SVK,Slovakia,Very High,45,0.848
+SVN,Slovenia,Very High,23,0.918
+SWE,Sweden,Very High,7,0.947
+SWZ,Eswatini (Kingdom of),Medium,144,0.597
+SYC,Seychelles,High,72,0.785
+SYR,Syrian Arab Republic,Medium,150,0.577
+TCD,Chad,Low,190,0.394
+TGO,Togo,Low,162,0.539
+THA,Thailand,Very High,66,0.8
+TJK,Tajikistan,Medium,122,0.685
+TKM,Turkmenistan,High,91,0.745
+TLS,Timor-Leste,Medium,140,0.607
+TON,Tonga,High,91,0.745
+TTO,Trinidad and Tobago,Very High,57,0.81
+TUN,Tunisia,High,97,0.731
+TUR,Turkey,Very High,48,0.838
+TUV,Tuvalu,Medium,130,0.641
+TZA,Tanzania (United Republic of),Low,160,0.549
+UGA,Uganda,Low,166,0.525
+UKR,Ukraine,High,77,0.773
+URY,Uruguay,Very High,58,0.809
+USA,United States,Very High,21,0.921
+UZB,Uzbekistan,High,101,0.727
+VCT,Saint Vincent and the Grenadines,High,89,0.751
+VEN,Venezuela (Bolivarian Republic of),Medium,120,0.691
+VNM,Viet Nam,High,115,0.703
+VUT,Vanuatu,Medium,140,0.607
+WSM,Samoa,High,111,0.707
+YEM,Yemen,Low,183,0.455
+ZAF,South Africa,High,109,0.713
+ZMB,Zambia,Medium,154,0.565
+ZWE,Zimbabwe,Medium,146,0.593
