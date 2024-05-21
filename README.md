@@ -1,6 +1,6 @@
 # Introdução ao Software Stata
 
-Olá! Este curso é destinado ao entendimento do software Stata para a análise e visualização de dados, com um foco especial nas Ciências Sociais Aplicadas.
+Este curso é destinado ao entendimento do software Stata para a análise e visualização de dados, com um foco especial nas Ciências Sociais Aplicadas.
 
 O material foi desenvolvido e elaborado por mim, Prof. Gustavo Moreira, do Departamento de Economia, Administração e Sociologia da Esalq/USP. Está disponível para todos que têm interesse em aprender mais sobre o software. Os arquivos necessários estão no repositório desta página e podem ser baixados para treino e teste. Além disso, o material é complementado com vídeos explicativos, cuja visualização em ordem é recomendada.
 
